@@ -14,8 +14,7 @@ A minimalist mood-tracking app designed to help users monitor their emotional we
 
 ```plaintext
 /
-├── index.html          # Entry point
-├── style.css           # Styling 
-├── script.js           # App logic 
-├── assets/             # Icons, illustrations, etc.
-└── README.md           # You're here!
+___          # Styling 
+├── Frond            # Styling,Icons, illustrations, etc
+├── Backend          # App logic
+└── README.md        # You're here!
