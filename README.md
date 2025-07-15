@@ -13,8 +13,8 @@ A minimalist mood-tracking app designed to help users monitor their emotional we
 ## Project Structure
 
 ```plaintext
-/
-___          # Styling 
+
+ ___          # Styling 
 ├── Frond            # Styling,Icons, illustrations, etc
 ├── Backend          # App logic
 └── README.md        # You're here!
