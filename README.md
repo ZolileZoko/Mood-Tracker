@@ -1,6 +1,6 @@
 # Mood Tracker
 
-A minimalist mood-tracking app designed to help users monitor their emotional well-being over time. This project is part of my personal journey to explore **full-stack development**, while focusing on **interactive UI**, **clean UX**, and **data visualization**.
+A minimalist mood-tracking app designed to help users monitor their emotional well-being over time. This project is part of my personal journey to explore **full-stack development**, while focusing on **interactive UI**,incorporating **ML Models** into WebDevelopment, **clean UX**, and **data visualization**.
 
 ## Features
 
