@@ -5,9 +5,9 @@ A minimalist mood-tracking app designed to help users monitor their emotional we
 ## Features
 
 -  Log daily mood entries with custom notes
--  Visualize trends over time (line/bar charts)
+-  Visualize trends over time (line charts)
 -  Toggle between dark and nude color themes
--  Local data persistence (e.g., using localStorage or file-based back-end)
+-  Local data persistence ( file-based back-end)
 -  Built as a practice project to learn modern web development
 
 ## Project Structure
